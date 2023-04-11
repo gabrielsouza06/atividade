@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    height: 50px;
+    width: 100%;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+h2{
+    height: 50px;
+    width: 100%;
+    background-color:rgb(211, 186, 45);
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.conteudo{
+    
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.conteudo .form div{
+    margin-bottom: 30px;
+    display: flex;
+  flex-direction: row;
+  
+
+  
+}
+.conteudo .form div p{
+
+align-items: center;
+display: flex;
+}
+   
+.form{  
+    width: 50px;
+
+}
+.button{
+    height: 30px;
+    display: flex;
+   margin-bottom: 30px;
+    justify-content: center;}
+
+.t1{
+    margin-bottom: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;  
+    margin-top: 10px;
+}
+
+h3{
+    background-color: aqua;
+}
